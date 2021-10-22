@@ -16,7 +16,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- Fixed disabling of send streams when local video was not enabled by integrating empty encoder params into `VideoStreamIndex` when sending is disabled.
+
 ### Changed
+
+- Ignore `enableUnifiedPlanForChromiumBasedBrowsers` value (i.e. treat as always equaling the current default value of `true`) in `MeetingSesstionConfiguration`.  Chrome is [in the processing](https://groups.google.com/g/discuss-webrtc/c/UBtZfawdIAA/m/m-4wnVHXBgAJ) of deprecating and removing Plan-B which would cause breakage in applications still trying to use it.  This will have no effect on SDK behavior` and has been the default since 1.17.0.
 
 ## [2.20.0] - 2021-10-18
 
