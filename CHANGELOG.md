@@ -6,9 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
 ### Added
 
-- Add support for layers allocation negotiation in Chromium based browsers to avoid resubscribing to preemptively turn off simulcast streams or to switch layers. 
+- Add support for layers allocation negotiation in Chromium based browsers to avoid resubscribing to preemptively turn off simulcast streams or to switch layers.
+- Add a doc to guide builders on managing video quality for different video layouts. See [guide](https://aws.github.io/amazon-chime-sdk-js/modules/videolayout.html).
 
 ### Removed
 

@@ -41,7 +41,7 @@ The [Amazon Chime SDK Project Board](https://github.com/orgs/aws/projects/12) ca
 - [Quickly launch an Amazon Chime SDK application with AWS Amplify](https://aws.amazon.com/blogs/business-productivity/quickly-launch-an-amazon-chime-sdk-application-with-aws-amplify/)
 - [Monitoring and troubleshooting with Amazon Chime SDK meeting events](https://aws.amazon.com/blogs/business-productivity/monitoring-and-troubleshooting-with-amazon-chime-sdk-meeting-events/)
 
-Here is a list of all blog posts about the Amazon Chime SDK](https://aws.amazon.com/blogs/business-productivity/tag/amazon-chime-sdk/).
+Here is a list of [all blog posts about the Amazon Chime SDK](https://aws.amazon.com/blogs/business-productivity/tag/amazon-chime-sdk/).
 
 ### Webinars and videos
 
@@ -63,6 +63,7 @@ The following developer guides cover specific topics for a technical audience.
 - [Adapting video to limited bandwidth using a priority-based video downlink policy](https://aws.github.io/amazon-chime-sdk-js/modules/prioritybased_downlink_policy.html)
 - [Client event ingestion](https://aws.github.io/amazon-chime-sdk-js/modules/clientevent_ingestion.html)
 - [Content Security Policy](https://aws.github.io/amazon-chime-sdk-js/modules/contentsecurity_policy.html)
+- [Managing Video Quality for Different Video Layouts](https://aws.github.io/amazon-chime-sdk-js/modules/videolayout.html)
 
 ## Migration Guides
 - [Migrating from v1.0 to v2.0](https://aws.github.io/amazon-chime-sdk-js/modules/migrationto_2_0.html)
